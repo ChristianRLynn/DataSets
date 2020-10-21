@@ -11,3 +11,5 @@ Outline:
   Notebook_V(?).ipynb              Colab notebook hook, can be downloaded and used in a notebook editor
 
 Data Gathered from https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
+For more information please contact ChristianRLynn@gmail.com
