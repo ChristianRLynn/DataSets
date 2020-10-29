@@ -1,4 +1,4 @@
-Digital Deep Dive Data Key                           
+Digital Deep Dive (10/2020) Data Dictionary
 
 MSSubClass: Identifies the type of dwelling involved in the sale.	
         20	1-STORY 1946 & NEWER ALL STYLES
