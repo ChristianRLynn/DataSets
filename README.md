@@ -6,8 +6,7 @@
 
 ## Outline:
 
-<pre class="tab1"> 
-train.csv:                              raw dataset for analysis
+<pre class="tab1">train.csv:                              raw dataset for analysis
 data_key.docx:                          data key for train.csv including info about features
 DDDPart1_TakeHome_Data.xlsx             Workbook and Homework from DDD Presentation #1
 DDDPart2_TakeHome_Data.xlsx             Workbook and Homework from DDD Presentation #2
