@@ -11,6 +11,6 @@ data_key.docx:                          data key for train.csv including info ab
 DDDPart1_TakeHome_Data.xlsx             Workbook and Homework from DDD Presentation #1
 DDDPart2_TakeHome_Data.xlsx             Workbook and Homework from DDD Presentation #2
 edited_data.csv                         Full working presentation dataset with intermediate steps
-DDD3Notebook.ipynb                      Presentation #3 Colab notebook hook, can be downloaded and used in a notebook editor</pre>
+DDD3Notebook.ipynb                      Presentation #3 notebook, can be downloaded and used in a notebook editor</pre>
 
 Data Gathered from https://www.kaggle.com/c/house-prices-advanced-regression-techniques
