@@ -1,8 +1,8 @@
 ![Baxter20](https://user-images.githubusercontent.com/72619946/98709813-7c012780-2348-11eb-8d10-abfe7f8b3d07.jpg)
-
 # DataSets
-#### Collection of Datasets for fun and analysis
-#### Used in talks Digital Deep Dive (D3) on October 22, 29, and November 3 2020
+Collection of Datasets for fun and analysis
+
+Used in talks Digital Deep Dive (D3) on October 22, 29, and November 3 2020
 
 ## Outline:
 
